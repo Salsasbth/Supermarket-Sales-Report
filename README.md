@@ -1,8 +1,9 @@
 # Supermarket Sales Report
+### Dashboard Visualization
 
-Dashboard URL : https://public.tableau.com/views/SuperstoreDashboard_17163961832970/SuperstoreDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+Lihat dashboard visualisasi lengkap di [Tableau Public]([https://public.tableau.com/shared/CXNCP87W6?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/SuperstoreDashboard_17163961832970/SuperstoreDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)).
 
-### Analytics and Insights from Visualizations
+### Analytics and Insights from Visualization
 
 1. **Sales Overview**
    - **Total Sales**: This visualization shows the total sales in a given period. It shows whether there is an increasing or decreasing trend in sales over time.
