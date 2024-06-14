@@ -33,7 +33,3 @@ View the full visualization dashboard on [Tableau Public]([https://public.tablea
 - **Region Strategy**: Boost marketing initiatives in low-sale regions.
 - **Seasonal Planning**: Arrange promotions and inventory in accordance with the cycles of sales.
 - **Customer Segments**: Customize marketing campaigns to attract underserved customer segments.
-
-### Next Actions
-**Performance Evaluation**: Use these visualisations to measure the strategy's efficacy on a regular basis.
-**Implement Revisions**: Make educated choices about goods, markets, and advertising tactics by utilising the analysis's insights.
