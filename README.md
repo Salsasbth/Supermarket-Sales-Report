@@ -1,5 +1,7 @@
 # Supermarket Sales Report
 
+Dashboard URL : https://public.tableau.com/views/SuperstoreDashboard_17163961832970/SuperstoreDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+
 ### Analytics and Insights from Visualizations
 
 1. **Sales Overview**
