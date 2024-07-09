@@ -1,7 +1,7 @@
 # **Supermarket Sales Report**
 ### **Visualization Dashboard**
 
-View the full visualization dashboard on [Tableau Public]([https://public.tableau.com/shared/CXNCP87W6?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/SuperstoreDashboard_17163961832970/SuperstoreDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)).
+View the full visualization dashboard on [Tableau Public](https://public.tableau.com/views/SuperstoreDashboard_17163961832970/SuperstoreDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ### Analytics and Insights from Visualization
 
